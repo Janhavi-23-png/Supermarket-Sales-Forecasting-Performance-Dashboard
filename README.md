@@ -1,4 +1,4 @@
-# Supermarket Sales Forecasting & Performance Dashboard
+# Sales Data Reporting & Analysis 
 
 This project focuses on analyzing supermarket sales data, building interactive dashboards, and performing accurate sales forecasting using time-series analysis in Power BI.
 
